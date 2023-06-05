@@ -31,5 +31,6 @@ Polynomials are widely used mathematical functions, and performing operations on
 - Created instances of Polynomial and performed addition, evaluation, and root checking.
 - Compiled the Java files using the javac command.
 - Executed the program using the java command and verified the output
-### 2.5 Conclusion
+
+## 3. Conclusion
 In this lab, we successfully implemented a Polynomial class in Java to handle polynomial operations. We learned how to set up the Java Development Kit (JDK), create a Git repository, and work with version control using Git. By implementing the Polynomial class, we gained a better understanding of object-oriented programming in Java and practiced using arrays, constructors, and methods. The lab provided hands-on experience in developing and testing a Java program from scratch, contributing to our overall understanding of Java programming and version control systems.
