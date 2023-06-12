@@ -1,4 +1,4 @@
-# CSCB07 Lab 1
+# CSCB07 Lab 2
 **Author:** Harmandeep Gill
 
 **Term:** Summer 2023
@@ -17,7 +17,7 @@ Polynomials are widely used mathematical functions, and performing operations on
 ### 2.2 Creating a git repository
 - Created a Github account if not already present.
 - Generated a personal access token for authentication.
-- Created a public repository named "b07lab1" on Github.
+- Created a public repository named "b07lab2" on Github.
 
 ### 2.3 Implementing the Polynomial Class
 - Created the Polynomial class with the necessary fields and methods.
@@ -25,12 +25,15 @@ Polynomials are widely used mathematical functions, and performing operations on
 - Implemented the add() method to perform polynomial addition.
 - Implemented the evaluate() method to evaluate the polynomial for a given value of x.
 - Implemented the hasRoot() method to check if a given value is a root of the polynomial.
+- Implemented the multiply() method to perform polynomial multiplication.
+- Implemented the saveToFile() method to save the polynomial to a file.
 
 ### 2.4 Testing the Implementation
 - Created a Driver class with a main method to test the Polynomial class.
-- Created instances of Polynomial and performed addition, evaluation, and root checking.
+- Created instances of Polynomial and performed addition, evaluation, root checking, and multiplication operations.
+- Tested the saveToFile() method by saving a polynomial to a file.
 - Compiled the Java files using the javac command.
-- Executed the program using the java command and verified the output
+- Executed the program using the java command and verified the output.
 
 ## 3. Conclusion
-In this lab, we successfully implemented a Polynomial class in Java to handle polynomial operations. We learned how to set up the Java Development Kit (JDK), create a Git repository, and work with version control using Git. By implementing the Polynomial class, we gained a better understanding of object-oriented programming in Java and practiced using arrays, constructors, and methods. The lab provided hands-on experience in developing and testing a Java program from scratch, contributing to our overall understanding of Java programming and version control systems.
+In this lab, we successfully implemented a Polynomial class in Java to handle polynomial operations. We gained practical experience in Java programming and learned how to set up the Java Development Kit (JDK) and use the Git version control system. By implementing the Polynomial class, we demonstrated our understanding of arrays, constructors, methods, and file handling in Java. The lab provided valuable hands-on experience in developing and testing a Java program, contributing to our overall understanding of Java programming and version control systems.
