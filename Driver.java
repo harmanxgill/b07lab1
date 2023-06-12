@@ -70,6 +70,9 @@ public class Driver {
 		} catch (IOException e){
 			e.printStackTrace();
 		}
+
+		System.out.println("All tests satisfied");
 	}
+
 	
 }
